@@ -1,0 +1,3 @@
+spark-submit --class /building-maven-1.0-SNAPSHOT.jar
+/home/swagarika95/Documents/csvreader/target/
+spark-submit --class WordCount /home/swagarika95/Documents/csvreader/target/building-maven-1.0-SNAPSHOT.jar
